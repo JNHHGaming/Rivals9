@@ -1,3 +1,5 @@
+-- This file was protected using Luraph Obfuscator v15.0 [https://lura.ph/]
+
 local iOiLIIl1ij0=(getfenv and getfenv(1)) or _ENV or _G
 local joiOlOOIjOi,LOOIl0iii0o=string.byte,string.char
 local function jIOLijlLoOo(joOIoI,joLLOLI)
